@@ -21,10 +21,23 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.alprenkrc.ListemCebimde"
     },
+    "scheme": "ListemCebimde",
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "26ae3edf-2174-49e1-b366-e8f4b54c3991"
+      }
     }
   }
 }
