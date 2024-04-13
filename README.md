@@ -1,7 +1,7 @@
 ﻿# ListemCebimde
 
 ```
-git clone https://github.com/alprenkrc/ListemCebimde.git`
+git clone https://github.com/alprenkrc/ListemCebimde.git
 
 ```
 
