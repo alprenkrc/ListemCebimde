@@ -1,5 +1,5 @@
 ﻿# ListemCebimde
-
+Expo ile geliştirdiğim basit bir alışveriş listesi uygulaması.
 ## Kurulum
 
 Depoyu klonlayın:
